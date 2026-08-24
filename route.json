@@ -13,6 +13,18 @@
   },
   {
     "number": 1,
+    "route": "6",
+    "destZ": "雲島",
+    "destY": "宏灣",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 2,
     "route": "33A",
     "destZ": "雲島",
     "destY": "山峰灣",
@@ -24,7 +36,7 @@
     "halfpriceY1": "0.0"
   },
   {
-    "number": 2,
+    "number": 3,
     "route": "44X",
     "destZ": "雲島",
     "destY": "天貴邨",
@@ -36,7 +48,7 @@
     "halfpriceY1": "0.0"
   },
   {
-    "number": 3,
+    "number": 4,
     "route": "100M",
     "destZ": "東洲灣",
     "destY": "水晶島",
@@ -48,7 +60,7 @@
     "halfpriceY1": "0.0"
   },
   {
-    "number": 4,
+    "number": 5,
     "route": "244X",
     "destZ": "天辟邨",
     "destY": "北雲邨",
@@ -60,7 +72,7 @@
     "halfpriceY1": "0.0"
   },
   {
-    "number": 5,
+    "number": 6,
     "route": "370",
     "destZ": "北田灣",
     "destY": "西洲灣",
